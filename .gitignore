@@ -1,0 +1,18 @@
+**/msp430_spi.c
+**/msp430_spi.h
+**/msprf24.c
+**/msprf24.h
+**/nRF24L01.h
+
+**/.ccsproject
+**/.clangd
+**/.cproject
+**/.project
+**/lnk_msp430f5529.cmd
+/Final Report/
+/datasheets/
+**/.settings/
+**/.theia/
+**/Debug/
+**/driverlib/
+**/targetConfigs/
